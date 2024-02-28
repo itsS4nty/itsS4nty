@@ -1,10 +1,11 @@
 <h1 align="center">Hi, I'm Santy 👋</h1>
 <h2 align="center">Software Engineer | Entrepreneur</h2>
 <h3 align="center">Software Enginner @ Rithum</h3>
+<hr />
 
 - 💬 Ask me about **React, NodeJS, Typescript**
 - 📄 Know about my experiences on [Linkedin](https://www.linkedin.com/in/santyao/)
-
+<hr />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
    <a href="https://linkedin.com/in/santyao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mauricioklein" height="30" width="40" /></a>
