@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Santy 👋</h1>
-<h2 align="center">Software Engineer | Entrepreneur</h2>
-<h3 align="center">Software Enginner @ Rithum</h3>
+<!-- <h2 align="center">Software Engineer | Entrepreneur</h2> -->
+<h2 align="center">Software Enginner @ Rithum</h2>
 <hr />
 
 - 💬 Ask me about **React, NodeJS, Typescript**
